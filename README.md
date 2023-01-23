@@ -3,4 +3,4 @@
 
 This contentent is created in **Github Pages**
 
-![Tux, the Linux mascot](/pages-demo/images/test.png)
+![Tux, the Linux mascot](/pages-demo/images/GopalKrishna.png)
